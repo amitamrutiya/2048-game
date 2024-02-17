@@ -24,7 +24,7 @@ flutter run
 
 # GamePlay
 
-- swipe up for move tile up swipe down for move tile down swipe left for move tile left swipe right move tile right.
+- Swipe up for move tile up swipe down for move tile down swipe left for move tile left swipe right move tile right.
 - Merge tiles with the same number to create a higher number
 - Try to reach the 2048 tile to win the game
 
